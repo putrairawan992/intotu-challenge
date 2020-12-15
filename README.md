@@ -2,7 +2,7 @@
 
 ```
 Online Browser:
-Open [https://bni-ku.web.app/](https://bni-ku.web.app/)
+https://bni-ku.web.app/
 
 ```
 Start dev:
