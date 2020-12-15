@@ -1,6 +1,10 @@
 # Intotu Test
 
 ```
+Online Browser:
+[Click Me](https://bni-ku.web.app/)
+
+```
 Start dev:
 - npm i
 - npm run tailwind:build
